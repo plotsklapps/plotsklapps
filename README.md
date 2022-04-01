@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm :plotsklapps</h1>
 <h3 align="center">Flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile%20views&color=0e75b6&style=flat" alt="plotsklapps" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile%20views&color=0e75b6&style=flat" alt="plotsklapps" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plotsklapps" alt="plotsklapps" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plotsklapps" alt="plotsklapps" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/plotsklapps" target="blank"><img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="plotsklapps" /></a> </p>
+<p align="center"> <a href="https://twitter.com/plotsklapps" target="blank"><img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="plotsklapps" /></a> </p>
 
-- 🔭 I’m currently working on **TRDLtool**
+<p align="center">- 🔭 I’m currently working on **TRDLtool** An application for iOS, Android and as PWA to help train dispatchers do their work more efficiently</p>
 
 - 🌱 I’m currently learning **Dart**
 
-- 👨‍💻 All of my projects are available at [bio.link/plotsklapps](bio.link/plotsklapps)
+- 👨‍💻 All of my projects are available at [https://www.bio.link/plotsklapps](bio.link/plotsklapps)
 
 - 📝 I regularly write articles on [hashnode/plotsklapps](hashnode/plotsklapps)
 
