@@ -7,17 +7,17 @@
 
 <p align="center"> <a href="https://twitter.com/plotsklapps" target="blank"><img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="plotsklapps" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on **TRDLtool**<br>An application for iOS, Android and as PWA to help train dispatchers do their work more efficiently</p>
+<p align="center">- 🔭 I’m currently working on <strong>TRDLtool</strong><br>An application for iOS, Android and as PWA to help train dispatchers do their work more efficiently</p>
 
-<p align="center">- 🌱 I’m currently learning **Dart**<br>A programming language by Google for Flutter</p>
+<p align="center">- 🌱 I’m currently learning <strong>Dart</strong><br>A programming language by Google for Flutter</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at<br>https://bio.link/plotsklapps</p>
 
 <p align="center">- 📝 I try to regularly write articles on<br>https://hashnode.com/@plotsklapps</p>
 
-- 💬 Ask me about **Flutter!**
+<p align="center">- 💬 Ask me about <strong>Flutter</strong>!<br>I bet I can help!</p>
 
-- 📫 How to reach me **plotsklapps@gmail.com**
+<p align="center">- 📫 How to reach me:<br><strong>plotsklapps@gmail.com</strong><br>Or find me on Twitter!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
