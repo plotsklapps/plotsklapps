@@ -21,10 +21,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plotsklapps" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="plotsklapps" height="30" width="40" /></a>
-<a href="https://hashnode.com/@plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@plotsklapps" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plotsklapps" height="30" width="40" /></a>
+<a href="https://twitter.com/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href="https://hashnode.com/@plotsklapps" target="blank"><img align="center" src="https://hashnode.com/media" alt="hashnode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
