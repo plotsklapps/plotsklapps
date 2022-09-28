@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://hashnode.com/@plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/plotsklapps/plotsklapps/main/hashnode.svg" alt="hashnode" height="30" width="40" /></a>
+<a href="https://hashnode.com/@plotsklapps" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="hashnode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
