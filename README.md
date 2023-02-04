@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/plotsklapps" target="blank"><img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="plotsklapps" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on <strong>TRDLtool</strong><br>An application for iOS, Android and as PWA to help train dispatchers do their work more efficiently</p>
+<p align="center">- 🔭 I’m currently working on <strong>BOKSklapps</strong><br>An application for iOS, Android and as PWA to help you lift your boxing bag workouts to the next level!</p>
 
 <p align="center">- 🌱 I’m currently learning <strong>Dart</strong><br>A programming language by Google for Flutter</p>
 
