@@ -9,6 +9,8 @@
 
 <p align="center">- 🔭 I’m currently working on <strong>BOKSklapps</strong><br>An application for iOS, Android and as PWA to help you lift your boxing bag workouts to the next level!</p>
 
+<p align="center">- 🔭 I regularly try to update my <strong>riverpod_university</strong> repo<br>If you're curious about Riverpod and how to use it in a Flutter app, it's a great start!</p>
+
 <p align="center">- 🌱 I’m currently learning <strong>Dart</strong><br>A programming language by Google for Flutter</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at<br>https://bio.link/plotsklapps</p>
