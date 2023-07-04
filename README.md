@@ -7,7 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/plotsklapps" target="blank"><img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="plotsklapps" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on <strong>BOKSklapps</strong><br>An application for iOS, Android and as PWA to help you lift your boxing bag workouts to the next level!</p>
+<p align="center">- 🔭 I’m currently working on <strong>BOKSklapps</strong><br>An application for iOS, Android and as PWA to help you lift your boxing bag workouts to the next level!<br>And working on <strong>TIMElapps</strong></pbr>An application for iOS, Android and as PWA to help you set focus timers and keep noise levels down!</p>
+
+<p align="center">- Check out www.boksklapps.app and www.timelapps.app!
 
 <p align="center">- 🔭 I regularly try to update my <strong>riverpod_university</strong> repo<br>If you're curious about Riverpod and how to use it in a Flutter app, it's a great start!</p>
 
