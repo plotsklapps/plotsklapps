@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plotsklapps&show_icons=true&locale=en&layout=compact" alt="plotsklapps" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plotsklapps&show_icons=true&locale=en" alt="plotsklapps" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=plotsklapps&show_icons=true&locale=en" alt="plotsklapps" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plotsklapps&" alt="plotsklapps" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=plotsklapps&" alt="plotsklapps" /></p>
