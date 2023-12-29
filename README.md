@@ -15,17 +15,17 @@
 
 <p align="center">- 🌱 I’m currently learning <strong>Dart</strong><br>A programming language by Google for Flutter</p>
 
-<p align="center">- 👨‍💻 All of my projects are available at<br>https://bio.link/plotsklapps</p>
+<p align="center">- 👨‍💻 All of my projects are available at<br>https://plotsklapps.dev</p>
 
 <p align="center">- 📝 I try to regularly write articles on<br>https://hashnode.com/@plotsklapps</p>
 
 <p align="center">- 💬 Ask me about <strong>Flutter</strong>!<br>I bet I can help!</p>
 
-<p align="center">- 📫 How to reach me:<br><strong>plotsklapps@gmail.com</strong><br>Or find me on Twitter!</p>
+<p align="center">- 📫 How to reach me:<br><strong>plotsklapps@gmail.com</strong><br>Or find me on X!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://hashnode.com/@plotsklapps" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="hashnode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/plotsklapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
