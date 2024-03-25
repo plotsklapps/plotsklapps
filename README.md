@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [GETSH_TDONE, a 'todo' PWA with Flutter, with search, sort and pomodoro focus mode.](https://getshtdone.app)
 
+- 🔭 Another project I'm in the middle of is [BeatBOKS, a cardio boxing PWA with Flutter, that plays your favourite songs while shouting your next punch.](https://beatboks.app)
+
 - 🌱 I’m currently learning **Dart & Firebase tools**
 
 - 👯 I’m looking to collaborate on [BOKSklapps, a cardio boxing PWA with Flutter, designed to deliver voice-controlled workouts.](https://boksklapps.app)
