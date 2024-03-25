@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Dart & Firebase tools**
 
-- 👯 I’m looking to collaborate on [BOKSklapps, a cardio boxing PWA with Flutter, designed to deliver voice-controlled workouts.](https://boksklapps.app)
+- 👯 I’m looking to collaborate on [BeatBOKS, a cardio boxing PWA with Flutter, designed to deliver voice-controlled workouts.](https://beatboks.app)
 
 - 🤝 I’m looking for help with [TIMElapps, a 'timetimer' and 'noiselight' for use in schools. Would love UI tips!](https://timelapps.app)
 
