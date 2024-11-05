@@ -11,6 +11,8 @@
 
 - 🔭 Another project I'm in the middle of is [BeatBOKS, a cardio boxing PWA with Flutter, that plays your favourite songs while shouting your next punch.](https://beatboks.app)
 
+- 🔭 And why not, working on [GYMPLY, the SIMPLE gym tracker.](https://gymply.app) as well!
+
 - 🌱 I’m currently learning **Dart & Firebase tools**
 
 - 👯 I’m looking to collaborate on [BeatBOKS, a cardio boxing PWA with Flutter, designed to deliver voice-controlled workouts.](https://beatboks.app)
