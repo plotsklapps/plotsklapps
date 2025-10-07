@@ -2,7 +2,7 @@
 
 ### 🚀 Flutter Developer | Train Dispatcher | Tech & Fitness Enthusiast
 
-As a dedicated **Flutter hobbyist** and **Train dispatcher** I love building high-quality mobile and web experiences while managing complex operational environments. My passion lies in transparent code, performance, and bringing innovative ideas to life!
+As a dedicated **Flutter hobbyist** and **Train dispatcher**. I love building high-quality mobile and web experiences while managing complex operational environments. My passion lies in transparent code, performance, and bringing innovative ideas to life!
 
 ---
 
@@ -99,8 +99,6 @@ If you appreciate my open-source work, consider buying me a coffee!
 ---
 
 ## 📊 GitHub Statistics
-
-*(These dynamic badges are best left as they are for real-time data)*
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
