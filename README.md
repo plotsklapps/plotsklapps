@@ -99,8 +99,6 @@ All my work, articles, and ways to connect are listed below.
 
 > ⚡ **Fun Fact:** I was a **prison guard** for over 10 years before transitioning into development. This experience taught me invaluable lessons in discipline and people management!
 
----
-
 If you appreciate my open-source work, consider buying me a coffee!
 <p align="left">
 <a href="https://www.buymeacoffee.com/plotsklapps"> 
@@ -108,4 +106,3 @@ If you appreciate my open-source work, consider buying me a coffee!
 </a>
 </p>
 
----
