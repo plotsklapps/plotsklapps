@@ -85,21 +85,6 @@ All my work, articles, and ways to connect are listed below.
 
 ---
 
-## 💡 Fun Fact & Support
-
-> ⚡ **Fun Fact:** I was a prison guard for over 10 years before transitioning into full-time development. This experience taught me invaluable lessons in discipline and process management!
-
-If you appreciate my open-source work, consider buying me a coffee!
-<p align="left">
-<a href="https://www.buymeacoffee.com/plotsklapps"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-</a>
-</p>
-
-
----
-
-
 ## 📊 GitHub Statistics
 
 <p align="left">
@@ -115,3 +100,18 @@ If you appreciate my open-source work, consider buying me a coffee!
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 💡 Fun Fact & Support
+
+> ⚡ **Fun Fact:** I was a prison guard for over 10 years before transitioning into full-time development. This experience taught me invaluable lessons in discipline and process management!
+
+If you appreciate my open-source work, consider buying me a coffee!
+<p align="left">
+<a href="https://www.buymeacoffee.com/plotsklapps"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+</a>
+</p>
+
+---
