@@ -87,16 +87,18 @@ All my work, articles, and ways to connect are listed below.
 
 ## 💡 Fun Fact & Support
 
-> ⚡ **Fun Fact:** I was a prison guard for over 10 years before transitioning into train dispatching and development. This experience taught me invaluable lessons in discipline and people management!
+> ⚡ **Fun Fact:** I was a prison guard for over 10 years before transitioning into full-time development. This experience taught me invaluable lessons in discipline and process management!
 
 If you appreciate my open-source work, consider buying me a coffee!
 <p align="left">
-  <a href="https://www.buymeacoffee.com/plotsklapps"> 
+<a href="https://www.buymeacoffee.com/plotsklapps"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
+</a>
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Statistics
 
