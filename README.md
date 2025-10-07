@@ -93,19 +93,13 @@ All my work, articles, and ways to connect are listed below.
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=plotsklapps&" alt="Contribution Streak" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 💡 Fun Fact & Support
 
-> ⚡ **Fun Fact:** I was a prison guard for over 10 years before transitioning into full-time development. This experience taught me invaluable lessons in discipline and process management!
+> ⚡ **Fun Fact:** I was a **prison guard** for over 10 years before transitioning into development. This experience taught me invaluable lessons in discipline and people management!
+
+---
 
 If you appreciate my open-source work, consider buying me a coffee!
 <p align="left">
