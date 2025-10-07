@@ -91,10 +91,10 @@ All my work, articles, and ways to connect are listed below.
 
 If you appreciate my open-source work, consider buying me a coffee!
 <p align="left">
-<a href="https://www.buymeacoffee.com/plotsklapps"> 
+  <a href="https://www.buymeacoffee.com/plotsklapps"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-</a>
-</p></br>
+  </a>
+</p>
 
 ---
 
@@ -106,18 +106,10 @@ If you appreciate my open-source work, consider buying me a coffee!
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/plotsklapps" target="blank">
-    <img src="https://img.shields.io/twitter/follow/plotsklapps?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plotsklapps&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=plotsklapps&show_icons=true&locale=en" alt="Stats" />
-</p>
-
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=plotsklapps&" alt="Contribution Streak" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=plotsklapps&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
