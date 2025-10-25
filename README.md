@@ -80,7 +80,7 @@ All my work, articles, and ways to connect are listed below.
 | :--- | :--- |
 | 🐦 **X** | [x.com/plotsklapps](https://x.com/plotsklapps) |
 | 📸 **YouTube** | [youtube.com/c/plotsklapps](https://www.youtube.com/c/plotsklapps) |
-| 👨‍💻 **Stack Overflow** | [stackoverflow.com/users/plotsklapps](https://stackoverflow.com/users/plotsklapps) |
+| 👨‍💻 **Stack Overflow** | [stackoverflow.com/users/plotsklapps](https://stackoverflow.com/users/15943424/plotsklapps) |
 | 📧 **Email** | `plotsklapps@gmail.com` |
 
 ---
